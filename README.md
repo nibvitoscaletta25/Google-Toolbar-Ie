@@ -209,4 +209,4 @@ Google Toolbar Internet Explorer is offered as a full free version with all feat
 Elevate your Internet browsing with Google Toolbar Internet Explorer—download your free version today!
 
 ---
-**Last updated:** 2026-10-10 20:28:26 UTC
+**Last updated:** 2026-10-11 00:06:01 UTC
